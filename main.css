@@ -1,0 +1,29 @@
+.header{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 48px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+.text{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 48px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.text_box{
+    width: 847px;
+    height: 558px;
+    box-sizing: border-box;
+    border: 5px solid rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    margin: 0 auto;
+    padding: 0 50px;
+}
